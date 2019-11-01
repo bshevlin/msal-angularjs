@@ -1,0 +1,22 @@
+{
+  "name": "msal-angularjs-alt",
+  "version": "0.1.2",
+  "description": "A bower package for @azure/msal-angularjs",
+  "main": [
+    "./msal.js",
+    "./msal-angular.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bshevlin/msal-angularjs-alt.git"
+  },
+  "author": "Barry Shevlin <bshevlin@knights.ucf.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bshevlin/msal-angularjs-alt/issues"
+  },
+  "homepage": "https://github.com/bshevlin/msal-angularjs-alt#readme",
+  "dependencies": {
+    "@azure/msal-angularjs": "^0.1.1"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "msal-angularjs-alt",
+  "description": "A bower package for @azure/msal-angularjs",
+  "main":[
+    "./msal.js",
+    "./msal-angular.js"
+  ],
+  "authors": [
+    "Barry Shevlin <bshevlin@knights.ucf.edu>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/bshevlin/msal-angularjs-alt",
+  "ignore": [
+    "**/.*",
+	"node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
