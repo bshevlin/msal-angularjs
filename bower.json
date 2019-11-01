@@ -2,7 +2,6 @@
   "name": "msal-angularjs-alt",
   "description": "A bower package for @azure/msal-angularjs",
   "main":[
-    "./msal.js",
     "./msal-angular.js"
   ],
   "authors": [
