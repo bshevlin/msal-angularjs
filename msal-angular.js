@@ -4552,7 +4552,6 @@ var B2cAuthority = /** @class */ (function (_super) {
     return B2cAuthority;
 }(AadAuthority_1.AadAuthority));
 exports.B2cAuthority = B2cAuthority;
-//# sourceMappingURL=B2cAuthority.js.map
 
 /***/ })
 /******/ ]);
